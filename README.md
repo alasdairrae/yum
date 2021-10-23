@@ -6,3 +6,5 @@ I am sharing the data here because I think interesting and I think other people 
 This dataset was originally published by the Food Standards Agency under the Open Government Licence (v3).
 
 Source: https://data.food.gov.uk/catalog/datasets/38dd8d6a-5ab1-4f50-b753-ab33288e3200
+
+[Github readme formatting] (https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
